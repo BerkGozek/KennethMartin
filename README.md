@@ -23,4 +23,3 @@ This project was made in Playgrounds using SwiftUI.
 - Start seperating them into their own path classes to give them their own colors
   - When you get to seperate 10 classes, put them in a group and continue outside the group.
   - SwiftUI only allows 10 seperate views to exist at once inside a main.
-- To
