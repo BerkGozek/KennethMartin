@@ -12,8 +12,7 @@ This project was made in Playgrounds using SwiftUI.
 ## App Preview:
 | Start State of App                  | End State of App                    |
 | ----------------------------------- | ----------------------------------- |
-| <img src="https://github.com/BerkGozek/KennethMartin/blob/main/Screenshots/Empty.png" width = "556" height = "570" />
-| <img src="https://github.com/BerkGozek/KennethMartin/blob/main/Screenshots/Finished.png" width = "556" height = "570" /> |
+| <img src="https://github.com/BerkGozek/KennethMartin/blob/main/Screenshots/Empty.png" width = "444.8" height = "456" />| <img src="https://github.com/BerkGozek/KennethMartin/blob/main/Screenshots/Finished.png" width = "444.8" height = "456" />|
 
 ## The Project Recipe
 
