@@ -12,7 +12,7 @@ struct KennethMartinApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
-                .frame(width:100, height: 100)
+                .frame(width:500, height: 500)
                 .background(Color("#F8F9F5"))
         }
     }
