@@ -12,6 +12,7 @@ struct KennethMartinApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .frame(width: 10, height: 10)
         }
     }
 }
