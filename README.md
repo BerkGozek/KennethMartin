@@ -5,8 +5,12 @@ This project is Kenneth Martin's 1977 work "Rotation ‘Frankfurt’ III" recrea
 
 This project was made in Playgrounds using SwiftUI.
 
-The art piece "Rotation ‘Frankfurt’ III":
+### The art piece "Rotation ‘Frankfurt’ III":
+
+<img src="https://github.com/BerkGozek/KennethMartin/blob/d66ac77da9f5b4d780450f8b3ab475d455f1daa6/Screenshots/KM_RF3.jpg" width="379" height="379.75" />
+
+## App Preview:
 
 
-<img src="https://github.com/BerkGozek/KennethMartin/blob/d66ac77da9f5b4d780450f8b3ab475d455f1daa6/Screenshots/KM_RF3.jpg" alt="KM_RF3" style="max-width: 100%; max-height: 100px;">
+## The Project Recipe
 
