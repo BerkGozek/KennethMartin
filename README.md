@@ -14,6 +14,9 @@ This project was made in Playgrounds using SwiftUI.
 | ----------------------------------- | ----------------------------------- |
 | <img src="https://github.com/BerkGozek/KennethMartin/blob/main/Screenshots/Empty.png" width = "444.8" height = "456" />| <img src="https://github.com/BerkGozek/KennethMartin/blob/main/Screenshots/Finished.png" width = "444.8" height = "456" />|
 
+# App in Motion
+![KM_3_gif]("https://github.com/BerkGozek/KennethMartin/blob/main/Screenshots/KM_RF3_Anim.gif")
+
 ## The Project Recipe
 - Select the art piece you want to recreate and animate
 - Put that into a Graphing Software such as Geogebra, the image should be placed in the fourth quadrant and its top left corner should be touching the origin point.
