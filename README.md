@@ -25,3 +25,7 @@ This project was made in Playgrounds using SwiftUI.
   - When you get to separate 10 classes, put them in a group and continue outside the group.
   - SwiftUI only allows 10 separate views to exist at once inside a main.
 - After separating their Path views and giving them their respective colors, create a `@State` `CGFloat` variable and give it the value `.zero`.
+- Add attribute `.trim` to each `Path` view
+  - Inside the attribute, make it go from 0 to the `CGFloat` variable we created.
+- Create a button that sets the `CGFloat` variable to 1
+  - This will cause the trim attribute to trim the line from 0% to 100%.
