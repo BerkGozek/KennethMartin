@@ -16,10 +16,12 @@ This project was made in Playgrounds using SwiftUI.
 
 ## The Project Recipe
 - Select the art piece you want to recreate and animate
-- Put that into a Graphing Software such as GeoGebra, the image should be placed in the fourth quadrant and it's top left corner should be touching the origin point.
+- Put that into a Graphing Software such as Geogebra, the image should be placed in the fourth quadrant and its top left corner should be touching the origin point.
 - Start graphing over the image in the Graphing Software using vectors.
   - You should end up with something like [this](https://www.geogebra.org/calculator/bjx9ymde).
-- By using the start and end points of the vectors, draw all of the lines under one path class and comment them the name of the correspondent point in the software.
-- Start seperating them into their own path classes to give them their own colors
-  - When you get to seperate 10 classes, put them in a group and continue outside the group.
-  - SwiftUI only allows 10 seperate views to exist at once inside a main.
+- By using the start and end points of the vectors, draw all of the lines under one path class and comment on them the name of the corresponding point in the software.
+- In your assets, create a color set for every color on the image inside a folder
+- Start separating them into their own `Path` view to give them their own colors
+  - When you get to separate 10 classes, put them in a group and continue outside the group.
+  - SwiftUI only allows 10 separate views to exist at once inside a main.
+- After separating their Path views and giving them their respective colors, create a `@State` `CGFloat` variable and give it the value `.zero`.
