@@ -15,7 +15,7 @@ This project was made in Playgrounds using SwiftUI.
 | <img src="https://github.com/BerkGozek/KennethMartin/blob/main/Screenshots/Empty.png" width = "444.8" height = "456" />| <img src="https://github.com/BerkGozek/KennethMartin/blob/main/Screenshots/Finished.png" width = "444.8" height = "456" />|
 
 # App in Motion
-![KM_3_gif]("https://github.com/BerkGozek/KennethMartin/blob/main/Screenshots/KM_RF3_Anim.gif")
+![KM_3_gif](https://github.com/BerkGozek/KennethMartin/blob/4fad62dbef4c74d6c1824b3bb35e20d958f5faad/Screenshots/KM_RF3_Anim.gif)
 
 ## The Project Recipe
 - Select the art piece you want to recreate and animate
