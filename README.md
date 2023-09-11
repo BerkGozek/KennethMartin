@@ -29,10 +29,10 @@ This project was made in Playgrounds using SwiftUI.
 - In your assets, create a color set for every color on the image inside a folder
   - Colors in Frankfurt 'Rotation' III are
     - ![#73ACBF](https://via.placeholder.com/15/73ACBF/000000?text=+) `#73ACBF`
-    - ![#C1E2AC]
-    - #E0818D
-    - #EC9B9E
-    - #F8F9F5
+    - ![#C1E2AC](https://via.placeholder.com/15/C1E2AC/000000?text=+) `#C1E2AC`
+    - ![#E0818D](https://via.placeholder.com/15/E0818D/000000?text=+) `#E0818D`
+    - ![#EC9B9E](https://via.placeholder.com/15/EC9B9E/000000?text=+) `#EC9B9E`
+    - ![#F8F9F5](https://via.placeholder.com/15/F8F9F5/000000?text=+) `#F8F9F5`
 - Start separating them into their own `Path` view to give them their own colors
   - When you get to separate 10 classes, put them in a group and continue outside the group.
   - SwiftUI only allows 10 separate views to exist at once inside a main.
