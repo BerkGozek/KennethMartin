@@ -27,6 +27,12 @@ This project was made in Playgrounds using SwiftUI.
   - You should end up with something like [this](https://www.geogebra.org/calculator/bjx9ymde).
 - By using the start and end points of the vectors, draw all of the lines under one path class and comment on them the name of the corresponding point in the software.
 - In your assets, create a color set for every color on the image inside a folder
+  - Colors in Frankfurt 'Rotation' III are
+    - ![#73ACBF](https://via.placeholder.com/15/73ACBF/000000?text=+) `#73ACBF`
+    - ![#C1E2AC]
+    - #E0818D
+    - #EC9B9E
+    - #F8F9F5
 - Start separating them into their own `Path` view to give them their own colors
   - When you get to separate 10 classes, put them in a group and continue outside the group.
   - SwiftUI only allows 10 separate views to exist at once inside a main.
