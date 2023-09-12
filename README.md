@@ -1,5 +1,5 @@
 # KennethMartin
-One of Kenneth Martin's Works recreated and Animated for AP CS Principles @ Hisar School 2023-2024
+One of Kenneth Martin's Works recreated and Animated for AP Computer Science Principles @ Hisar School 2023-2024
 
 This project is Kenneth Martin's 1977 work "Rotation ‘Frankfurt’ III" recreated and animated.
 
